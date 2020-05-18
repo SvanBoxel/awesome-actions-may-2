@@ -4,7 +4,7 @@
 # TODO: Change back to "application/json" once API is stable. 
 # See: https://developer.github.com/v3/projects/#create-a-repository-project
 ACCEPT_HEADER="application/vnd.github.inertia-preview+json"  
-
+# TODO: Hello do this!
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 echo "Creating new Project."
